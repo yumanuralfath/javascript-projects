@@ -17,6 +17,7 @@ const init = async () => {
 
   await server.start();
 
+  // eslint-disable-next-line no-console
   console.log(`server berjalan pada ${server.info.uri}`);
 };
 

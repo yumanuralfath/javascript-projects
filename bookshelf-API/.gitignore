@@ -1,1 +1,4 @@
 node_modules
+.eslintrc.js
+.eslintrc.json
+bookshelf-API.zip
